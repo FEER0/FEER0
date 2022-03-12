@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FEER0
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, c++ and javascript
 - 📫 Reach me by my discord Server http://www.discord.gg/Cx9bQ8YZxz
 
 <!---
